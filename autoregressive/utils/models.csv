@@ -1,0 +1,16 @@
+model,obj_adversarial,obj_masking,obj_nsp,obj_other,dom_general,dom_only_medical,size_less_100,size_100_110,size_110_120,size_120_130,size_over_130,from_scratch,fine_tuned,autoreg,autoenc,seq2seq
+BERT,0,1,1,0,1,0,0,1,0,0,0,1,0,0,1,0
+ROBERTA,0,1,0,0,1,0,0,0,0,1,0,1,0,0,1,0
+ALBERT,0,1,0,0,1,0,1,0,0,0,0,1,0,0,1,0
+ELECTRA,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0
+SPANBERT,0,1,0,1,1,0,0,1,0,0,0,1,0,0,1,0
+XLNET,0,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0
+BERTWEET,0,1,0,0,1,0,0,0,0,0,1,0,1,0,1,0
+DISTILBERT,0,1,0,1,1,0,1,0,0,0,0,1,0,0,1,0
+BIOBERT,0,1,1,0,1,1,0,1,0,0,0,0,1,0,1,0
+BIOROBERTA,0,1,0,0,1,1,0,0,0,1,0,0,1,0,1,0
+BIOELECTRA,1,0,0,0,0,1,0,1,0,0,0,1,0,0,1,0
+BIOCLINICALBERT,0,1,0,0,1,1,0,1,0,0,0,0,1,0,1,0
+BIOCLINICALROBERTA,0,1,0,0,1,1,0,0,0,1,0,0,1,0,1,0
+SCIBERT,0,0,0,0,1,1,0,1,0,0,0,0,1,0,1,0
+PUBMEDBERT,0,1,1,0,0,1,0,1,0,0,0,1,0,0,1,0

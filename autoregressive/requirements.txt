@@ -1,0 +1,11 @@
+numpy
+pandas
+wasabi
+iceream
+transformers
+torch
+pytorch-lightning
+spacy
+sklearn
+fuzzywuzzy
+sentencepiece

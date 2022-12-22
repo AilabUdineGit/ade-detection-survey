@@ -1,0 +1,7 @@
+gold_int	pred_int	text	gold_class	pred_class
+[(1,5,"ADE"), (6,7, "ADE")]	[(2,5,"ADE"), (6,7,None)]	This is an exmple of a text	1	1
+[(1,5,"ADE"), (6,7, "ADE")]	[(2,5,"ADE"), (6,7,None)]	Some text	1	0
+[(1,5,"ADE"), (6,7, "ADE")]	[(2,5,"ADE"), (6,7,None)]	This is an exmple of a text	0	0
+[(1,5,"ADE"), (6,7, "ADE")]	[(2,5,"ADE"), (6,7,None)]	A text	0	1
+[(1,5,"ADE"), (6,7, "ADE")]	[(2,5,"ADE"), (6,7,None)]	This is an exmple of a text	1	1
+[(1,5,"ADE"), (6,7, "ADE")]	[(2,5,"ADE"), (6,7,None)]	A text	0	1

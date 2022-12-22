@@ -1,0 +1,12 @@
+{
+	"task": "ner",
+    "architecture": "T5",
+    "models": ["T5"],
+        "parameters": {
+            "lr": ["5e-5"],
+            "dropout": [0.15,0.20,0.25,0.30],
+            "batch_size": [4,8],
+            "epochs": [15]
+            }
+
+}

@@ -1,0 +1,26 @@
+{
+    "models": [
+        "BERT",   
+        "ROBERTA",    
+        "BERTWEET",    
+        "ALBERT",    
+        "ELECTRA",
+        "SPANBERT",   
+        "XLNET",  
+        "DISTILBERT", 
+        "BIOBERT",
+        "BIOROBERTA",
+        "BIOELECTRA",
+        "BIOCLINICALBERT", 
+        "SCIBERT",
+        "PUBMEDBERT",
+				"ENDRBERT"
+      ],
+        "parameters": {
+            "lr": ["5e-5", "1e-4", "1e-6"],
+            "dropout": [0.15,0.20,0.25,0.30],
+            "batch_size": [4,8],
+            "epochs": [15]
+            }
+
+}

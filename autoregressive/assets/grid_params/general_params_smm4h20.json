@@ -1,0 +1,13 @@
+{
+	"task": "ner",
+    "architecture": "GENERAL",
+    "models": "GENERAL",
+    "parameters": {
+        "lr": ["5e-5", "6e-5", "1e-4", "1e-3", "1e-5"],
+        "dropout": [0.15],
+        "batch_size": [8,16,32],
+        "epochs": [15]
+        },
+    "source_len": 64,
+    "target_len": 20
+}
