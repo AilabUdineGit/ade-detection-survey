@@ -50,5 +50,5 @@ python main.py -<dataset> -ft -<model>
 
 # TODO
 
-- [  ] Merge autoregressive and autoencoding
-- [  ] Add links to download the two datasets
+ - [  ] Merge autoregressive and autoencoding
+ - [  ] Add links to download the two datasets
